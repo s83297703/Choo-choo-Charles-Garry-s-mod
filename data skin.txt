@@ -22,10 +22,10 @@
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2140151-1",
-      "native_yandex":"R-M-2140151-2",
-      "interstitial_yandex":"R-M-2140151-3",
-      "rewarde_yandex":"R-M-2140151-4",
+      "banner_yandex":"R-M-2162874-1",
+      "native_yandex":"R-M-2162874-2",
+      "interstitial_yandex":"R-M-2162874-3",
+      "rewarde_yandex":"R-M-2162874-4",
 
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
